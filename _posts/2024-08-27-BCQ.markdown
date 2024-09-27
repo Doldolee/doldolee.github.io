@@ -5,7 +5,7 @@ date:   2024-08-27 22:21:59 +00:00
 image: /images/bcq.png
 categories: Research
 author: "Y. Lim"
-authors: "<strong>Y. Lim</strong>, I. Park, <a href="https://sites.google.com/view/ai-healthcare-lab/people">S. Lee</a>"
+authors: "<strong>Y. Lim</strong>, I. Park, S. Lee"
 venue: "arxiv"
 arxiv: https://arxiv.org/abs/2409.15753
 ---
