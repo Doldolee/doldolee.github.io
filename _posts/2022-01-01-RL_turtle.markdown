@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Autonomous Driving Temperature Measurement Robot"
+date:   2022-01-01 22:21:59 +00:00
+image: images/RL_turtle.png
+categories: Personal
+author: "Y. Lim"
+code: https://github.com/Doldolee/SDTMBOT
+
+---
+Development of an Autonomous Driving Robot Using Computer Vision, Reinforcement Learning, and Edge Computing Technologies
