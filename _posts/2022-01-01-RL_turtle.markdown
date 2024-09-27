@@ -8,4 +8,4 @@ author: "Y. Lim"
 code: https://github.com/Doldolee/SDTMBOT
 
 ---
-Development of an Autonomous Driving Robot Using Computer Vision, Reinforcement Learning, and Edge Computing Technologies
+Development of an autonomous driving robot using computer vision, reinforcement learning, and edge computing technologies
