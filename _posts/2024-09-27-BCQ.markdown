@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Development and Validation of Heparin Dosing Policies Using an Offline Reinforcement Learning Algorithm"
+date:   2024-09-27 22:21:59 +00:00
+image: /images/bcq.png
+categories: Research
+author: "Y. Lim"
+authors: "<strong>Y. Lim</strong>, I. Park, S. Lee"
+venue: "arxiv"
+arxiv: https://arxiv.org/abs/2409.15753
+---
+This study proposes a reinforcement learning (RL)-based personalized heparin dosing policy for ICU patients to ensure optimal dosing and minimize complications.
