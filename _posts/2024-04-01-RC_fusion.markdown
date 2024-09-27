@@ -3,7 +3,7 @@ layout: post
 title:  "Multimodal sensor fusion models for real-time exercise repetition counting with IMU sensors and respiration data"
 date:   2024-04-01 22:21:59 +00:00
 image: /images/information_fusion.png
-categories: Publications and Preprints
+categories: Research
 author: "Y. Lim"
 authors: "S. Lee, <strong>Y. Lim</strong>, k. Lim"
 venue: "Information Fusion"

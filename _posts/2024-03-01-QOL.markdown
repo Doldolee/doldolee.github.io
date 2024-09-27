@@ -3,7 +3,7 @@ layout: post
 title:  "Machine learning-derived model for predicting poor post-treatment quality of life in Korean cancer survivors"
 date:   2024-03-01 22:21:59 +00:00
 image: /images/qol.png
-categories: Publications and Preprints
+categories: Research
 author: "Y. Lim"
 authors: "Y. Choe, S. Lee, <strong>Y. Lim</strong>, S. Kim"
 venue: "Supportive Care in Cancer"
