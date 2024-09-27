@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Multimodal sensor fusion models for real-time exercise repetition counting with IMU sensors and respiration data"
+date:   2024-04-01 22:21:59 +00:00
+image: /images/information_fusion.png
+categories: Publications and Preprints
+author: "Y. Lim"
+authors: "S. Lee, <strong>Y. Lim</strong>, k. Lim"
+venue: "Information Fusion"
+arxiv: https://www.sciencedirect.com/science/article/pii/S1566253523004694
+---
+This study develops an automatic exercise repetition counting model using a multi-modal deep learning approach. The model leverages data from smart earbuds with IMU sensors and respiratory audio recordings, enabling accurate tracking across 30 different exercise types.
