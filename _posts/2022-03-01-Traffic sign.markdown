@@ -8,4 +8,4 @@ author: "Y. Lim"
 code: https://github.com/Doldolee/TrafficSign-Detection
 
 ---
-Using various models and two datasets, we performed an object detection task. We evaluated how well a model trained on a specific dataset performs on another dataset collected in different scenarios.
+This project tackles traffic sign detection using multiple models across two datasets. It emphasizes cross-dataset evaluation to assess how well a model generalizes to different data distributions, addressing the challenge of distributional shifts.
