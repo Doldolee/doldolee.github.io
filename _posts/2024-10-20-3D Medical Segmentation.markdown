@@ -8,4 +8,4 @@ author: "Y. Lim"
 code: https://github.com/Doldolee/3D-medical-segmentation
 
 ---
-This project implements 3D medical segmentaiton algorithms.
+This project implements 3D medical segmentation algorithms.
