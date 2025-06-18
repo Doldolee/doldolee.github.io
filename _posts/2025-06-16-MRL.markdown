@@ -9,4 +9,3 @@ authors: "Role-First Author"
 venue: "Under Review--Top CS conference"
 # arxiv: https://arxiv.org/abs/2410.00407
 ---
-This study explores research trends related to digital twins in healthcare through Structural Topic Modeling
