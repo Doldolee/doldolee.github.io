@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "(multimodal reinforcement learning using clinical notes)"
-date:   2025-06-18 22:21:59 +00:00
+title:  "Related to (multimodal reinforcement learning using clinical notes)"
+date:   2025-06-16 22:21:59 +00:00
 image: /images/dol.png
 categories: review
 author: "Y. Lim"
 authors: "Role-First Author"
-venue: "Target: Top CS conference"
+venue: "Under Review--Top CS conference"
 # arxiv: https://arxiv.org/abs/2410.00407
 ---
 This study explores research trends related to digital twins in healthcare through Structural Topic Modeling
