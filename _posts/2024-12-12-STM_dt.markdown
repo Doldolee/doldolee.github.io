@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Research Trends in the Adoption of Digital Twins in Healthcare: Applying Structural Topic Modeling"
-date:   2025-06-18 22:21:59 +00:00
+date:   2024-12-12 22:21:59 +00:00
 image: /images/dol.png
-categories: Under
+categories: review
 author: "Y. Lim"
 authors: "Role-Corresponding Author"
 venue: "Scientific Reports"
