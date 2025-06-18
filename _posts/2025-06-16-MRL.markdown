@@ -5,7 +5,7 @@ date:   2025-06-16 22:21:59 +00:00
 image: /images/dol.png
 categories: review
 author: "Y. Lim"
-authors: "Role-First Author"
+authors: "Role---First Author"
 venue: "Under Review---Top CS conference"
 # arxiv: https://arxiv.org/abs/2410.00407
 ---
