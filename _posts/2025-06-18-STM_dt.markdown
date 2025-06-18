@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Research Trends in the Adoption of Digital Twins in Healthcare: Applying Structural Topic Modeling"
+date:   2025-06-18 22:21:59 +00:00
+# image: /images/few_shot_IMU.png
+categories: Under
+author: "Y. Lim"
+authors: "Role: Corresponding Author"
+venue: "Scientific Reports"
+# arxiv: https://arxiv.org/abs/2410.00407
+---
+This study explores research trends related to digital twins in healthcare through Structural Topic Modeling
