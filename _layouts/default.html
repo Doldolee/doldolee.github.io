@@ -253,6 +253,9 @@
               {{ post.date | date: "%Y-%m" }}
 
               <br>
+              {% if post.arxiv %}
+              <a href="{{post.arxiv}}">arxiv</a> 
+              {% endif %}
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
