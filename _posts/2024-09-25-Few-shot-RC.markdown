@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intelligent Repetition Counting for Unseen Exercises: A Few-Shot Learning Approach with Sensor Signals"
-date:   2024-09-25 22:21:59 +00:00
+date:   2024-08-25 22:21:59 +00:00
 image: /images/few_shot_IMU.png
 categories: Preprint
 author: "Y. Lim"
