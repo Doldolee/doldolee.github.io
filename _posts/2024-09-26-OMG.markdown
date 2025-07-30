@@ -3,7 +3,7 @@ layout: post
 title:  "OMG-RL: Offline Model-based Guided Reward Learning for Heparin Treatment"
 date:   2024-09-26 22:21:59 +00:00
 image: /images/omg.png
-categories: Research
+categories: Preprint
 author: "Y. Lim"
 authors: "<strong>Y. Lim</strong>, S. Lee"
 venue: "Preprint"
