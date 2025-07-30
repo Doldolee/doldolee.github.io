@@ -5,6 +5,8 @@ date:   2024-08-27 22:21:59 +00:00
 image: /images/bcq.png
 categories: Preprint
 author: "Y. Lim"
+authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
+venue: "Under Review"
 arxiv: https://arxiv.org/abs/2409.15753
 ---
 This study proposes a reinforcement learning (RL)-based personalized heparin dosing policy for ICU patients to ensure optimal dosing and minimize complications.
