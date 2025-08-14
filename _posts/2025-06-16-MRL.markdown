@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Research Topic: Multimodal Reinforcement Learning Using Text and Tabular Data"
+title:  "MORE-CLEAR: Multimodal Offline Reinforcement learning for Clinical notes Leveraged Enhanced State Representation"
 date:   2025-06-16 22:21:59 +00:00
-image: /images/dol.png
-categories: review
+image: /images/more_clear.png
+categories: Preprint
 author: "Y. Lim"
-authors: "Role---First Author"
-venue: "Under Review---Top CS conference"
-# arxiv: https://arxiv.org/abs/2410.00407
+authors: "<strong>Y. Lim</strong>, B. jeon, S. park, J. Lee, S. choi, C. jeong, H. ryu, H. lee, H. yang"
+venue: "Preprint"
+arxiv: https://arxiv.org/abs/2508.07681
 ---
+MORE-CLEAR is a multimodal offline RL framework that integrates clinical notes and structured data using LLMs, gated fusion, and cross-modal attention, achieving better survival estimates and policy performance than single-modal methods.
