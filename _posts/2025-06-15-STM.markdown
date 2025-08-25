@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Research Trends in the Adoption of Digital Twins in Healthcare: Applying Structural Topic Modeling"
+title:  "Mapping Interconnectivity of Digital Twin Healthcare Research Themes through Structural Topic Modeling"
 date:   2025-06-15 22:21:59 +00:00
 image: /images/dol.png
-categories: review
+categories: Research
 author: "Y. Lim"
-authors: "Role---Corresponding Author"
-venue: "Under Revision---Scientific Reports"
-# arxiv: https://arxiv.org/abs/2410.00407
+authors: "<strong>Y. Lim</strong>, E. Kim"
+venue: "Scientific Reports"
+url: coming soon
 ---
+Publication accepted
