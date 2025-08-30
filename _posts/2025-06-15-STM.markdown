@@ -2,11 +2,11 @@
 layout: post
 title:  "Mapping Interconnectivity of Digital Twin Healthcare Research Themes through Structural Topic Modeling"
 date:   2025-06-15 22:21:59 +00:00
-image: /images/dol.png
+image: /images/stm.png
 categories: Research
 author: "Y. Lim"
-authors: "<strong>Y. Lim</strong>, E. Kim"
+authors: "E. Kim, <strong>Y. Lim</strong>"
 venue: "Scientific Reports"
-url: coming soon
+url: https://www.nature.com/articles/s41598-025-17517-w
 ---
-Publication accepted
+These days, the integration of digital twins and helathcare is a particularly interesting ares. This study aims to identify key research trends related to application of digital twins to healthcare using structural topic modeling.
