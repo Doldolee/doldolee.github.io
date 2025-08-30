@@ -7,6 +7,6 @@ categories: Research
 author: "Y. Lim"
 authors: "Y. Choe, S. Lee, <strong>Y. Lim</strong>, S. Kim"
 venue: "Supportive Care in Cancer"
-url: https://link.springer.com/article/10.1007/s00520-024-08347-z
+arxiv: https://link.springer.com/article/10.1007/s00520-024-08347-z
 ---
 Many cancer survivors experience poor quality of life (QOL) even after completing treatment. In this study, we developed predictive models using machine learning (ML) to identify poor QOL in post-treatment cancer survivors in South Korea.
