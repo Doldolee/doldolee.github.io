@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Uncertainty-Aware Reinforcement Learning Framework for Safer Drug Dosing"
+title:  "Trustworthy ICU Care: an Uncertainty-Aware Reinforcement Learning Framework for Safer Drug Dosing"
 date:   2025-06-28 22:21:59 +00:00
 image: /images/dol.png
 categories: review
