@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OMG-RL: Offline Model-based Guided Reward Learning for Heparin Treatment"
-date:   2024-09-26 22:21:59 +00:00
+date:   2025-09-16 22:21:59 +00:00
 image: /images/omg.png
 categories: review
 author: "Y. Lim"
@@ -9,4 +9,4 @@ authors: "<strong>Y. Lim</strong>, S. Lee"
 venue: "Revision---Biomedical Engineering Advances"
 arxiv: https://arxiv.org/abs/2409.13299
 ---
-This study proposes Offline Model-based Guided Reward Learning (OMG-RL) to develop a reward function that captures clinicians' intentions for reinforcement learning-based medication dosing.
+Applying RL to medication dosing is challenging due to the reliance on narrowly defined reward functions and the diversity of clinical drugs. we propose Offline Model-based Guided Reward Learning (OMG-RL), an Inverse RL (IRL) framework that infers clinicians' therapeutic intentions and derives an optimal heparin dosing policy.

@@ -9,4 +9,4 @@ authors: "<strong>Y. Lim</strong>, S. Lee"
 venue: "Preprint"
 arxiv: https://arxiv.org/abs/2410.00407
 ---
-This study introduces a method using a deep metric-based few-shot learning approach to accurately count repetitions of both known and novel exercises.
+We propose a universal exercise repetition counting method that analyzes IMU signals through a deep metric-based few-shot learning framework. The model generalizes to unseen exercises with high accuracy, demonstrating robustness for real-time applications in fitness and healthcare.
