@@ -3,7 +3,7 @@ layout: post
 title:  "Development and Validation of Heparin Dosing Policies Using an Offline Reinforcement Learning Algorithm"
 date:   2024-08-27 22:21:59 +00:00
 image: /images/bcq.png
-categories: Preprint
+categories: review
 author: "Y. Lim"
 authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
 venue: "Revision---IEEE Access"
