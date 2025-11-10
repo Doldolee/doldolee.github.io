@@ -6,6 +6,6 @@ image: /images/dol.png
 categories: review
 author: "Y. Lim"
 authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
-venue: "Under Review---SCIE journal"
+venue: "Under Review---Journal of Biomedical Informatics"
 # arxiv: https://arxiv.org/abs/2410.00407
 ---
