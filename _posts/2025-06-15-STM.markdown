@@ -6,7 +6,7 @@ image: /images/stm.png
 categories: Research
 author: "Y. Lim"
 authors: "E. Kim, <strong>Y. Lim</strong>"
-venue: "Scientific Reports"
+venue: "<u>Scientific Reports</u>"
 arxiv: https://www.nature.com/articles/s41598-025-17517-w
 ---
 These days, the integration of digital twins and helathcare is a particularly interesting ares. This study aims to identify key research trends related to application of digital twins to healthcare using structural topic modeling.

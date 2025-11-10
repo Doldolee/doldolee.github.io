@@ -6,7 +6,7 @@ image: /images/bcq.png
 categories: review
 author: "Y. Lim"
 authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
-venue: "Revision---IEEE Access"
+venue: "<u>Revision---IEEE Access</u>"
 arxiv: https://arxiv.org/abs/2409.15753
 ---
 This study presents an RL-based decision-support framework for heparin dosing in the ICU, employing Batch-Constrained Q-Learning (BCQ) with rigorous off-policy evaluation. Trained and validated on MIMIC-III and MIMIC-IV, the learned policies outperform clinician strategies and align with therapeutic aPTT targets, establishing a foundation for reliable RL-based systems in critical care.

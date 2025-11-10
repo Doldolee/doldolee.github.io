@@ -6,7 +6,7 @@ image: /images/more_clear.png
 categories: review
 author: "Y. Lim"
 authors: "<strong>Y. Lim</strong>, B. Jeon, S. Park, J. Lee, S. Choi, C. Jeong, H. Ryu, H. Lee, H. Yang"
-venue: "Under Review---NPJ Digital Medicine"
+venue: "<u>Under Review---NPJ Digital Medicine</u>"
 arxiv: https://arxiv.org/abs/2508.07681
 ---
 MORE-CLEAR is a multimodal offline RL framework that integrates clinical notes and structured data using LLMs, gated fusion, and cross-modal attention, achieving better survival estimates and policy performance than single-modal methods.

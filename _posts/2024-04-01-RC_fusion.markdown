@@ -6,7 +6,7 @@ image: /images/information_fusion.png
 categories: Research
 author: "Y. Lim"
 authors: "S. Lee, <strong>Y. Lim</strong>, k. Lim"
-venue: "Information Fusion"
+venue: "<u>Information Fusion</u>"
 arxiv: https://www.sciencedirect.com/science/article/pii/S1566253523004694
 ---
 A deep learning model is proposed to count exercise repetitions using multimodal data from smart earbuds, integrating IMU sensors and respiratory audio. Trained on 30 exercise types with data augmentation and interpolation, it enables accurate tracking for personalized fitness plans and improved health outcomes.
