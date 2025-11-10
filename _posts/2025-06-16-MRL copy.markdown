@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Assessing Senior Driver Safety through Trajectory-level Inverse Reinforcement Learning: a Multidimensional Evaluation for Conditional Licences"
+date:   2025-11-08 22:21:59 +00:00
+image: /images/dol.png
+categories: review
+author: "Y. Lim"
+authors: "<strong>Y. Lim</strong>, G. Shin, B. Jeon, H. Yang, M. Lim, J. Leigh"
+venue: "Under Review---Nature Machine Intelligence"
+---
+To address the rise in traffic accidents caused by the growing older driver population, this study propose an Inverse Reinforcement Learning-based framework for multidimensional and quantitative assessment of driving competence.
+The framework build reference agents for older and younger drivers and employs TA-Adv and TA-dSNIPS metrics to precisely evaluate driving performance across safety, rule compliance, efficiency, and comfort.
