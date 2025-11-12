@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trustworthy ICU Care: an Uncertainty-Aware Reinforcement Learning Framework for Safer Drug Dosing"
-date:   2025-06-28 22:21:59 +00:00
+date:   2025-09-18 22:21:59 +00:00
 image: /images/dol.png
 categories: review
 author: "Y. Lim"
