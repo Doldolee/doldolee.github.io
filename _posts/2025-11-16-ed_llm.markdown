@@ -3,7 +3,7 @@ layout: post
 title:  "Emergency Department Multi-Agent Clinician"
 date:   2025-11-16 22:21:59 +00:00
 image: /images/dol.png
-categories: current research
+categories: currentresearch
 # author: "Y. Lim"
 # authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
 # venue: "<u>Revision---Journal of Biomedical Informatics</u>"

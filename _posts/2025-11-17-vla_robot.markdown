@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Development of an Autonomous Pre-operative Setup Robot Platform Powered by LLM–VLA Integration"
+date:   2025-11-16 09:21:59 +00:00
+image: /images/dol.png
+categories: currentresearch
+# author: "Y. Lim"
+# authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
+# venue: "<u>Revision---Journal of Biomedical Informatics</u>"
+# url: 
+---
+We develop an end-to-end LLM–VLA surgical setup automation system in which the LLM orchestrates task decomposition, navigation manages autonomous movement between storage and the operating room, and the VLA performs multi-item perception and precise manipulation.
