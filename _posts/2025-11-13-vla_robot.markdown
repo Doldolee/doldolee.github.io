@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Development of an Autonomous Pre-operative Setup Robot Platform Powered by LLM–VLA Integration"
-date:   2025-11-16 09:21:59 +00:00
+date:   2025-11-13 09:21:59 +00:00
 image: /images/dol.png
 categories: currentresearch
 # author: "Y. Lim"
