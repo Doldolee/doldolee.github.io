@@ -7,6 +7,6 @@ categories: currentresearch
 # author: "Y. Lim"
 # authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
 # venue: "<u>Revision---Journal of Biomedical Informatics</u>"
-url: https://github.com/Doldolee/doldolee.github.io/tree/master/pdfs/kcd2025.pdf
+url: https://github.com/Doldolee/doldolee.github.io/blob/master/pdfs/kcd2025.pdf
 ---
 This research evaluates four core tasks in the emergency department (ED)—triage classification, diagnosis recommendation, operation decision prediction, and inpatient ward prediction—using LLM-based and multi-agent approaches.
