@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emergency Department Multi-Agent Clinician"
+title:  "Multi-agent clinical reasoning traces"
 date:   2025-11-14 22:21:59 +00:00
 image: /images/dol.png
 categories: currentresearch
@@ -9,4 +9,4 @@ categories: currentresearch
 # venue: "<u>Revision---Journal of Biomedical Informatics</u>"
 urls: https://github.com/Doldolee/doldolee.github.io/blob/master/pdfs/kcd2025.pdf
 ---
-This research evaluates four core tasks in the emergency department (ED)—triage classification, diagnosis recommendation, operation decision prediction, and inpatient ward prediction—using LLM-based and multi-agent approaches.
+This research evaluates four core tasks in the emergency department (ED)—triage classification, diagnosis recommendation, operation decision prediction, and inpatient ward prediction—using LLM-based models. We also seek to quantify the rationale of LLMs through agent-based approaches.
