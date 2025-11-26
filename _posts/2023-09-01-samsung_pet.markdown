@@ -5,5 +5,5 @@ date:   2023-09-01 22:21:59 +00:00
 image: images/samsung_pet.jpg
 categories: Industry
 author: "Y. Lim"
-venue: "Samsung Electronics"
+venue: "<u>Samsung Electronics</u>"
 ---
