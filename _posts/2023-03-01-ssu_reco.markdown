@@ -5,5 +5,5 @@ date:   2023-03-01 22:21:59 +00:00
 image: /images/ssu_reco.png
 categories: Industry
 author: "Y. Lim"
-venue: "Soongsil University"
+venue: "<u>Soongsil University</u>"
 ---
