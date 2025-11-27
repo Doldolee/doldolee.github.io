@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assessing Senior Driver Safety through Trajectory-level Inverse Reinforcement Learning: a Multidimensional Evaluation for Conditional Licences"
+title:  "Assessing Senior Driver Safety through Trajectory-Level Inverse Reinforcement Learning: A Multidimensional Evaluation for Conditional Licensing"
 date:   2025-11-08 22:21:59 +00:00
 image: /images/dol.png
 categories: review
