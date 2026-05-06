@@ -6,6 +6,6 @@ image: /images/dol.png
 categories: review
 author: "Y. Lim"
 authors: "<strong>Y. Lim</strong>, G. Shin, B. Jeon, H. Yang, M. Lim, J. Leigh"
-venue: "<u>Under Review---Nature Machine Intelligence</u>"
+venue: "<u>Under Review---Nature Communications</u>"
 ---
 To address the rise in traffic accidents caused by the growing older driver population, this study propose an Inverse Reinforcement Learning-based framework for multidimensional and quantitative assessment of driving competence.
