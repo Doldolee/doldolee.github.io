@@ -38,7 +38,7 @@
 
               <p>I am currently focused on advancing <strong>medical ultrasound technology</strong> with AI, specifically estimating mechanical and acoustic properties. My goal is to contribute to advances in medical technology and make a positive impact on the broader community.</p>
               <p style="text-align:center">
-                <a href="mailto:seook6453@gmail.com"> Email</a> &nbsp;/&nbsp;
+                <a href="mailto:yooseoklim@umass.edu"> Email</a> &nbsp;/&nbsp;
                 <a href="https://github.com/doldolee">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://scholar.google.com/citations?user=HzGSiFoAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;/&nbsp;
                 <a href="https://github.com/Doldolee/doldolee.github.io/tree/master/pdfs/CV_YooseokLim.pdf"> CV </a>
@@ -145,7 +145,7 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}{% if post.status %} / {{post.status}}{% endif %}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">url</a>
