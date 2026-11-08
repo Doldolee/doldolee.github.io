@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two-Stage Label-Efficient Deep Learning for Ultrasound Attenuation Estimation from RF Data"
+title: "TANDEM: Two-Stage Label-Efficient Deep Learning for Ultrasound Attenuation Estimation from RF Data"
 date: 2026-08-31 00:00:00 +00:00
 image: /images/dol.png
 categories: Research
