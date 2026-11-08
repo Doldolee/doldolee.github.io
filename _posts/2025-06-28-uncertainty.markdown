@@ -5,7 +5,7 @@ date:   2025-09-18 22:21:59 +00:00
 image: /images/dol.png
 categories: review
 author: "Y. Lim"
-authors: "<strong>Y. Lim</strong>, In-beom Park, S. Lee"
+authors: "<strong>First author</strong>"
 venue: "<u>Under Review---IEEE JBHI</u>"
 # arxiv: https://arxiv.org/abs/2410.00407
 ---

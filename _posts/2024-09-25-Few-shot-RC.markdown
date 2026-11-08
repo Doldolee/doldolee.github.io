@@ -5,7 +5,7 @@ date:   2024-08-25 22:21:59 +00:00
 image: /images/few_shot_IMU.png
 categories: review
 author: "Y. Lim"
-authors: "<strong>Y. Lim</strong>, S. Lee"
+authors: "<strong>First author</strong>"
 venue: "<u>Revision---IEEE Sensors</u>"
 arxiv: https://arxiv.org/abs/2410.00407
 ---
